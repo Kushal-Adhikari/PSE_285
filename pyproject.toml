@@ -1,0 +1,13 @@
+[project]
+name = "pse285"
+version = "1.0.0"
+description = "Python environment for PSE 285: Problem Solving Techniques and Numerical Analysis"
+requires-python = ">=3.13,<3.14"
+
+dependencies = [
+    "matplotlib>=3.10,<4",
+    "numpy>=2.3,<3",
+    "pandas>=2.3,<3",
+    "scikit-learn>=1.9,<2",
+    "scipy>=1.16,<2",
+]
