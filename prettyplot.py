@@ -30,6 +30,6 @@ ax.yaxis.set_label_coords(-0.1, 0.5)
 ax.ticklabels.set_fontsize(16.5)
 
 plt.legend()
-plt.axis([-2*math.pi, 2*math.pi, -1.1, 1.1])
+plt.axis ([-2*math.pi, 2*math.pi, -1.1, 1.1])
 plt.title('Plot of sin(x)')
 plt.show()

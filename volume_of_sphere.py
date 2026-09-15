@@ -16,4 +16,3 @@ def volume_of_sphere(radius):
 input_radius = float(input("Enter the radius of the sphere: "))
 
 print(f"The volume of the sphere with radius {input_radius} is {volume_of_sphere(input_radius)}")
-print(math.pi)
